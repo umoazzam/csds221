@@ -7,5 +7,5 @@
 </template>
 
 <script setup>
-  import Homepage from '@/components/HomepageComponent.vue.js'
+  import Homepage from '@/components/HomepageComponent.vue'
 </script>
